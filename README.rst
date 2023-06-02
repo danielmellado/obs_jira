@@ -1,19 +1,15 @@
-===============================
+========
 obs_jira
-===============================
+========
 
 Jira CLI and Wrapper
 
-Please fill here a long description which must be at least 3 lines wrapped on
-80 cols, so that distribution package maintainers can use it in their packages.
-Note that this is a hard requirement.
+This is a simple jira wrapper (not still even a cli, WIP) that started out when
+I was really lazy about click, click, click all the JIRA issues and going
+through all the web interface.
 
-* Free software: Apache license
-* Documentation: https://docs.openstack.org/obs_jira/latest
-* Source: https://opendev.org/openshift_monitoring/obs_jira
-* Bugs: https://bugs.launchpad.net/replace with the name of the project on Launchpad or the ID from Storyboard
+Enjoy!
 
 Features
 --------
-
-* TODO
+* POC

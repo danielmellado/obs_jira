@@ -53,13 +53,10 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'obs_jira Release Notes'
-copyright = '2022, OpenStack Developers'
+copyright = '2023, Daniel Mellado'
 
 # openstackdocstheme options
-openstackdocs_repo_name = 'openshift_monitoring/obs_jira'
-openstackdocs_bug_project = 'replace with the name of the project on Launchpad or the ID from Storyboard'
-openstackdocs_bug_tag = ''
-openstackdocs_auto_name = 'False'
+openstackdocs_repo_name = 'danielmellado/obs_jira'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
