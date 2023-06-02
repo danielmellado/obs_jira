@@ -1,0 +1,6 @@
+[run]
+branch = True
+source = obs_jira
+
+[report]
+ignore_errors = True
